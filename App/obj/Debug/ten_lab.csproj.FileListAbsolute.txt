@@ -1,0 +1,10 @@
+C:\Users\vital\source\repos\ten_lab\ten_lab\bin\Debug\ten_lab.exe.config
+C:\Users\vital\source\repos\ten_lab\ten_lab\bin\Debug\ten_lab.exe
+C:\Users\vital\source\repos\ten_lab\ten_lab\bin\Debug\ten_lab.pdb
+C:\Users\vital\source\repos\ten_lab\ten_lab\obj\Debug\ten_lab.Form1.resources
+C:\Users\vital\source\repos\ten_lab\ten_lab\obj\Debug\ten_lab.Properties.Resources.resources
+C:\Users\vital\source\repos\ten_lab\ten_lab\obj\Debug\ten_lab.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\ten_lab\ten_lab\obj\Debug\ten_lab.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\ten_lab\ten_lab\obj\Debug\ten_lab.exe
+C:\Users\vital\source\repos\ten_lab\ten_lab\obj\Debug\ten_lab.pdb
+C:\Users\vital\source\repos\ten_lab\ten_lab\obj\Debug\ten_lab.Form2.resources
